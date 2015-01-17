@@ -1,0 +1,19 @@
+.nav-bar li {
+    display: inline ;
+    font-color: #4D9494;
+}
+
+.nav-bar a {
+    padding: 14px 55px;
+    font-weight: bold;
+}
+
+.main-page {
+    background-color: #E4EAE4;
+}
+.jumbotron {
+    background-image: url('d2w-screenshot-1.png')
+}
+.jumborton h1 {
+    margin-left: 50px;
+}
