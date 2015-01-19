@@ -1,6 +1,6 @@
 .nav-bar li {
     display: inline ;
-    font-color: #4D9494;
+    color: #4D9494;
 }
 
 .nav-bar a {
@@ -11,9 +11,21 @@
 .main-page {
     background-color: #E4EAE4;
 }
-.jumbotron {
+
+body {
     background-image: url('d2w-screenshot-1.png')
 }
-.jumborton h1 {
-    margin-left: 50px;
+.jumbotron {
+
 }
+
+.jumbotron h1 {
+    margin-left: 50px;
+    color: #82829B;
+}
+
+.jumbotron p {
+    margin-left: 50px;
+    color: #82829B;
+}
+
