@@ -21,11 +21,15 @@ body {
 
 .jumbotron h1 {
     margin-left: 50px;
-    color: #82829B;
+    color: #4D9494;
 }
 
 .jumbotron p {
     margin-left: 50px;
-    color: #82829B;
+    color: #4D9494;
+}
+
+.tourus {
+    opacity: 1;
 }
 
