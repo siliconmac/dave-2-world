@@ -7,20 +7,16 @@
     padding: 14px 55px;
     font-weight: bold;
 }
-}
-
-body {
-
-}
-
-
-.tourus {
-    margin-left: 200px;
-    margin-right: 200px;
-}
 
 .blog {
     margin-left: 200px;
     margin-right: 200px;
 }
 
+body {
+    background-image: url('d2w-screenshot-3.png');
+}
+
+.blog {
+    color: #FFF;
+}

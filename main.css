@@ -8,15 +8,12 @@
     font-weight: bold;
 }
 
-.main-page {
-    background-color: #E4EAE4;
-}
 
 body {
     background-image: url('d2w-screenshot-1.png')
 }
 .jumbotron {
-
+<!--    background-image: url('d2w-screenshot-1.png') -->
 }
 
 .jumbotron h1 {
@@ -29,7 +26,10 @@ body {
     color: #4D9494;
 }
 
-.tourus {
-    opacity: 1;
+.gallery h5 {
+    color: #000;
 }
 
+.gallery h6 {
+    color: #000;
+}
