@@ -45,5 +45,9 @@ p {
 }
 
 .main-page h3 {
-    color: #4D9494;
+    color: #0066cc;
+}
+
+.main-page a {
+    color: #0000FF;
 }
