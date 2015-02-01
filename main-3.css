@@ -12,3 +12,17 @@
     margin-left: 200px;
     margin-right: 200px;
 }
+
+p {
+    font-family: Arial;
+}
+
+.nether-rail {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%
+}
+
+.nether-rail em {
+    color: #FFFFFF;
+}

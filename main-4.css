@@ -12,10 +12,16 @@ body {
 }
 p {
     color: #FFFFFF;
+    font-family: Arial;
 }
 
-.tourus {
-    margin-left: 200px;
-    margin-right: 200px;
+.torus {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%
+}
+
+.torus a {
+    color: #00F
 }
 

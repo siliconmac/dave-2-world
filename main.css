@@ -33,3 +33,17 @@ body {
 .gallery h6 {
     color: #000;
 }
+
+p {
+    font-family: Arial;
+}
+
+.main-page {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%
+}
+
+.main-page h3 {
+    color: #4D9494;
+}

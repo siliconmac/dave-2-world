@@ -20,3 +20,13 @@ body {
 .blog {
     color: #FFF;
 }
+
+p {
+    font-family: Arial;
+}
+
+.blog {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%
+}
