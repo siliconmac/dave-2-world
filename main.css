@@ -26,13 +26,6 @@ body {
     color: #4D9494;
 }
 
-.gallery h5 {
-    color: #000;
-}
-
-.gallery h6 {
-    color: #000;
-}
 
 p {
     font-family: Arial;
@@ -45,9 +38,19 @@ p {
 }
 
 .main-page h3 {
-    color: #0066cc;
+    color: #000066;
 }
 
 .main-page a {
-    color: #0000FF;
+    color: #000066;
+}
+
+.main-page p {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.main-page h3 {
+    margin-left: 5%;
+    margin-right: 5%;
 }
