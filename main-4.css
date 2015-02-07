@@ -15,10 +15,13 @@ p {
     font-family: Arial;
 }
 
-.torus {
+.main-page {
     margin-left: 10%;
     margin-right: 10%;
     width: 80%
+}
+.torus {
+    padding: 2.5%;
 }
 
 .torus a {
@@ -27,6 +30,7 @@ p {
 
 .pic {
     margin-left: 10%;
+    margin-right: 10%
 }
 
 .torus p {
@@ -34,8 +38,10 @@ p {
     margin-right: 10%
 }
 
-.torus h4 {
+.torus h3 {
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 5%
+    color: #000066;
 }
+

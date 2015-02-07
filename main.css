@@ -34,7 +34,7 @@ p {
 .main-page {
     margin-left: 10%;
     margin-right: 10%;
-    width: 80%
+    padding: 2.5%;
 }
 
 .main-page h3 {
