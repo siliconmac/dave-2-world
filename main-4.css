@@ -11,7 +11,7 @@ body {
     font-weight: bold;
 }
 p {
-    color: #FFFFFF;
+    color: #000;
     font-family: Arial;
 }
 
@@ -25,3 +25,17 @@ p {
     color: #00F
 }
 
+.pic {
+    margin-left: 10%;
+}
+
+.torus p {
+    margin-left: 10%;
+    margin-right: 10%
+}
+
+.torus h4 {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%
+}
