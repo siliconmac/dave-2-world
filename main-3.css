@@ -8,6 +8,12 @@
     font-weight: bold;
 }
 
+.nav-bar {
+    position:fixed;
+    background-color: #FFF;
+    width: 100%;
+}
+
 .nether-rail {
     margin-left: 200px;
     margin-right: 200px;

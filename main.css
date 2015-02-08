@@ -8,12 +8,15 @@
     font-weight: bold;
 }
 
+.nav-bar {
+    position:fixed;
+    background-color: #FFF;
+    width: 100%;
+}
+
 
 body {
     background-image: url('d2w-screenshot-1.png')
-}
-.jumbotron {
-<!--    background-image: url('d2w-screenshot-1.png') -->
 }
 
 .jumbotron h1 {
@@ -25,7 +28,6 @@ body {
     margin-left: 50px;
     color: #4D9494;
 }
-
 
 p {
     font-family: Arial;
