@@ -1,0 +1,32 @@
+.nav-bar li {
+    display: inline ;
+    color: #4D9494;
+}
+
+.nav-bar a {
+    padding: 14px 55px;
+    font-weight: bold;
+}
+
+.nav-bar {
+    position:fixed;
+    background-color: #FFF;
+    width: 100%;
+}
+
+body {
+    background-image: url('d2w-screenshot-3.png');
+}
+
+.row h4 {
+    color: #006;
+}
+
+.row p {
+    color: #006;
+}
+
+.row {
+    background-color: white;
+    padding: 2.5%;
+}
