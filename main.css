@@ -56,3 +56,17 @@ p {
     margin-left: 5%;
     margin-right: 5%;
 }
+
+.main-page h4 {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.main-page h5 {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 15px;
+}
+gallery img {
+    display: inline;
+}
